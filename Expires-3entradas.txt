@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
 <html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.0.0' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' expr:lang='data:blog.localeUnderscoreDelimited' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+<meta content='width=device-width, initial-scale=1' name='viewport'/>  
+
+<include expiration='7d' path='https://static.hotjar.com/c/hotjar-3109395.js?sv=6'/>  
+  
+<include expiration='7d' path='.css'/>
+<include expiration='7d' path='.js'/>
+<include expiration='7d' path='.gif'/>
+<include expiration='7d' path='.jpeg'/>
+<include expiration='7d' path='.jpg'/>
+<include expiration='7d' path='.JPG'/>
+<include expiration='7d' path='.png'/>
+<include expiration='7d' path='.PNG'/>  
+  
+  
+
 <head>
+  <meta content='2Sjw4Xc5zm52LemcwcE8crktKz3m8rScPDQUARSUVMM' name='google-site-verification'/>
+  
+  <!-- Hotjar Tracking Code for https://www.cuborubikcode.tech -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3109395,hjsv:6};
+        a=o.getElementsByTagName(&#39;head&#39;)[0];
+        r=o.createElement(&#39;script&#39;);r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,&#39;https://static.hotjar.com/c/hotjar-&#39;,&#39;.js?sv=&#39;);
+</script>
+  
+  <!-- [ Meta Tag SEO ] -->
+<include expiration='7d' path='.css'/>
+<include expiration='7d' path='.js'/>
+<include expiration='7d' path='.gif'/>
+<include expiration='7d' path='.jpeg'/>
+<include expiration='7d' path='.jpg'/>
+<include expiration='7d' path='.png'/>
+
+<include expiration='7d' path='https://static.hotjar.com/c/hotjar-3109395.js?sv=6'/>  
+
+  <include expiration='7d' path='/assets/.css'/>
+<include expiration='7d' path='/assets/*.gif'/>
+<include expiration='7d' path='/assets/*.jpeg'/>
+<include expiration='7d' path='/assets/*.jpg'/>
+<include expiration='7d' path='/assets/*.png'/>
+<include expiration='7d' path='/assets/*.JPG'/>
+<include expiration='7d' path='/assets/*.PNG'/>
+  
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='blogger' name='generator'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
+<link expr:href='data:blog.url' rel='canonical'/>
+<b:if cond='data:blog.pageType == &quot;index&quot;'>
+<meta expr:content='data:blog.metaDescription' name='description'/>
+<b:else/>
+</b:if><!-- [ Aqui iba lo de unir titulo con titulo de blog (mejor quitarlo)] -->
+<b:if cond='data:blog.pageType == &quot;error_page&quot;'>
+<title> Página no encontrada - <data:blog.title/></title>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;archive&quot;'>
+<meta content='noindex' name='robots'/>
+</b:if>
+<b:if cond='data:blog.searchLabel'>
+<meta content='noindex,nofollow' name='robots'/>
+</b:if>
+<b:if cond='data:blog.isMobile'>
+<meta content='noindex,nofollow' name='robots'/>
+</b:if>
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+<meta expr:content='data:blog.metaDescription' name='description'/>
+<script type='application/ld+json'>{ &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;WebSite&quot;, &quot;url&quot;: &quot;<data:blog.homepageUrl/>&quot;, &quot;potentialAction&quot;: { &quot;@type&quot;: &quot;SearchAction&quot;, &quot;target&quot;: &quot;<data:blog.homepageUrl/>?q={search_term}&quot;, &quot;query-input&quot;: &quot;required name=search_term&quot; } }</script>
+<b:if cond='data:blog.homepageUrl != data:blog.url'>
+<meta expr:content='data:blog.pageName + &quot; &quot;' name='keywords'/><!-- [ Aqui modificamos para que no sobrepase keywords ] -->
+</b:if></b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<meta content='informatica, programacion, tecnologia, tics, git, github, c#, csharp, java, tecnologias de la informacion' name='keywords'/></b:if>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' expr:title='data:blog.title + &quot; - RSS&quot;' rel='alternate' type='application/rss+xml'/>
+<link expr:href='&quot;https://www.blogger.com/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:blog.postImageThumbnailUrl'>
+<link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
+</b:if></b:if>
+<link expr:href='data:blog.url' hreflang='x-default' rel='alternate'/>
+<link href='https://www.blogger.com/profile/05859304441952265276' rel='publisher'/>
+<link href='https://www.blogger.com/profile/05859304441952265276' rel='author'/>
+<link href='https://www.blogger.com/profile/05859304441952265276' rel='me'/>
+<meta content='CÓDIGO-VALIDACIÓN-GOOGLE-WEBMASTER' name='google-site-verification'/>
+<meta content='CÓDIGO-VALIDACIÓN-BING-WEBMASTER' name='msvalidate.01'/>
+<meta content='Mexico' name='geo.placename'/>
+<meta content='David Nava ' name='Author'/>
+<meta content='general' name='rating'/>
+<meta content='MX' name='geo.country'/>
   
   <!-- Google tag (gtag.js) -->
 <script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-B7W3X1MFFV'/>
@@ -11,7 +107,7 @@
   gtag(&#39;js&#39;, new Date());
 
   gtag(&#39;config&#39;, &#39;G-B7W3X1MFFV&#39;);
-</script>
+</script>  
   
 <b:include name='theme-head'/>
 <b:if cond='!data:view.isLayoutMode'>
@@ -5998,7 +6094,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
 <b:if cond='data:view.isLayoutMode or (data:widgets any w =&gt; w.sectionId == &quot;templateify-panel&quot;)'>
   <div id='theme-options' style='display:none'>
     <b:section class='templateify-panel' id='templateify-panel' maxwidgets='2' name='Theme Options' showaddelement='no'>
-      <b:widget id='TextList100' locked='true' title='Facebook SDK' type='TextList' version='2' visible='true'>
+      <b:widget id='TextList100' locked='true' title='Facebook SDK' type='TextList' version='2' visible='false'>
         <b:widget-settings>
           <b:widget-setting name='shownum'/>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
@@ -6095,7 +6191,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
                  <b:tag class='mobile-menu-toggle' href='#' name='a' role='button' title='Menu'/>
                 <b:if cond='data:view.isLayoutMode or (data:widgets.Image any w =&gt; w.sectionId == &quot;main-logo&quot;)'>
                   <b:section class='main-logo' id='main-logo' maxwidgets='1' name='Header Logo' showaddelement='no'>
-                    <b:widget id='Image50' locked='true' title='' type='Image' visible='true'>
+                    <b:widget id='Image50' locked='true' title='Informática y Programación - CuboRubikCode' type='Image' visible='true'>
                       <b:widget-settings>
                         <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEiiyDguFC9LZtSwQukX_9mj2GoXzzrwosWaM4H3JQu6JBhfAwFqbIz3s662Os5pMT761_Ob0iCnr-0GQ6DvTcD7vtHls_ybpTQ4oaZJCghTltQIiPKZLrZjLJBjrggLCJYBFbvnhuARufo20hgvNYvaiLm2jtEHA2QMs-piHLBLx4JI95OenTyv7_E0kA=s850</b:widget-setting>
                         <b:widget-setting name='displayHeight'>346</b:widget-setting>
@@ -6103,7 +6199,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
                         <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
                         <b:widget-setting name='displayWidth'>850</b:widget-setting>
                         <b:widget-setting name='link'>https://blogger.googleusercontent.com/img/a/AVvXsEgH0DDr4ndw7_SofzT7Zc6Vt5oGT6ObXBmtUfSDc0OPzQuKIe1w971fyEtk_nuknpwcATKayVWlrRa8X49Vs2ILxXnL-UWgA7xNMPslk9FS1hxof9XQv5Pk6E6t48gP2uzsQypIkRnnYf-0S7RAauLBC1_GI8Ag3xsQKRmNKbZxkHtdoUD2C_TIL0o7=s291</b:widget-setting>
-                        <b:widget-setting name='caption'>CuboRubikCode</b:widget-setting>
+                        <b:widget-setting name='caption'>Tecnologias de información.</b:widget-setting>
                       </b:widget-settings>
                       <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -6987,8 +7083,8 @@ if(localStorage.getItem(&#39;dark-mode&#39;) === &#39;true&#39;){
               <b:widget-setting name='sectionWidth'>150</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='displayWidth'>1600</b:widget-setting>
-              <b:widget-setting name='link'>#</b:widget-setting>
-              <b:widget-setting name='caption'>CuboRubikCode - Informática y Programación</b:widget-setting>
+              <b:widget-setting name='link'/>
+              <b:widget-setting name='caption'/>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
