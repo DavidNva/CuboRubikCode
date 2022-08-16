@@ -7,7 +7,7 @@
 <include expiration='7d' path='https://static.hotjar.com/c/hotjar-3109395.js?sv=6'/>  
   
 <include expiration='7d' path='.css'/>
-<include expiration='7d' path='.js'/>
+<include expiration='3d' path='.js'/>
 <include expiration='7d' path='.gif'/>
 <include expiration='7d' path='.jpeg'/>
 <include expiration='7d' path='.jpg'/>
@@ -34,7 +34,7 @@
   
   <!-- [ Meta Tag SEO ] -->
 <include expiration='7d' path='.css'/>
-<include expiration='7d' path='.js'/>
+<include expiration='3d' path='.js'/>
 <include expiration='7d' path='.gif'/>
 <include expiration='7d' path='.jpeg'/>
 <include expiration='7d' path='.jpg'/>
@@ -6126,7 +6126,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
       <b:include name='image-content'/>
     </b:includable>
       </b:widget>
-      <b:widget id='HTML50' locked='true' title='JSON Variables' type='HTML' visible='true'>
+      <b:widget id='HTML50' locked='true' title='JSON Variables' type='HTML' visible='false'>
         <b:widget-settings>
           <b:widget-setting name='content'/>
         </b:widget-settings>
