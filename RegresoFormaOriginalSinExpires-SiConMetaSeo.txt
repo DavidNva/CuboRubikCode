@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
 <html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.0.0' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' expr:lang='data:blog.localeUnderscoreDelimited' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
-
 <meta content='width=device-width, initial-scale=1' name='viewport'/>  
 
-<include expiration='7d' path='https://static.hotjar.com/c/hotjar-3109395.js?sv=6'/>  
-  
-<include expiration='7d' path='.css'/>
-<include expiration='3d' path='.js'/>
-<include expiration='7d' path='.gif'/>
-<include expiration='7d' path='.jpeg'/>
-<include expiration='7d' path='.jpg'/>
-<include expiration='7d' path='.JPG'/>
-<include expiration='7d' path='.png'/>
-<include expiration='7d' path='.PNG'/>  
-  
-  
-
 <head>
-  <meta content='2Sjw4Xc5zm52LemcwcE8crktKz3m8rScPDQUARSUVMM' name='google-site-verification'/>
   
   <!-- Hotjar Tracking Code for https://www.cuborubikcode.tech -->
 <script>
@@ -33,23 +18,6 @@
 </script>
   
   <!-- [ Meta Tag SEO ] -->
-<include expiration='7d' path='.css'/>
-<include expiration='3d' path='.js'/>
-<include expiration='7d' path='.gif'/>
-<include expiration='7d' path='.jpeg'/>
-<include expiration='7d' path='.jpg'/>
-<include expiration='7d' path='.png'/>
-
-<include expiration='7d' path='https://static.hotjar.com/c/hotjar-3109395.js?sv=6'/>  
-
-  <include expiration='7d' path='/assets/.css'/>
-<include expiration='7d' path='/assets/*.gif'/>
-<include expiration='7d' path='/assets/*.jpeg'/>
-<include expiration='7d' path='/assets/*.jpg'/>
-<include expiration='7d' path='/assets/*.png'/>
-<include expiration='7d' path='/assets/*.JPG'/>
-<include expiration='7d' path='/assets/*.PNG'/>
-  
 <meta charset='utf-8'/>
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <meta content='blogger' name='generator'/>
@@ -108,6 +76,7 @@
 
   gtag(&#39;config&#39;, &#39;G-B7W3X1MFFV&#39;);
 </script>  
+ 
   
 <b:include name='theme-head'/>
 <b:if cond='!data:view.isLayoutMode'>
@@ -6110,7 +6079,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
       </b:widget>
       <b:widget id='Image52' locked='true' title='Default Thumbnail' type='Image' visible='true'>
         <b:widget-settings>
-          <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEj1IZ9D2binNieOePAR_IXyBnckuv-BAeHvB05OTgRSwOQco3JQdfAoCzrlSPcHsxOMm7xglNOTJSa7hN3O3Q3Vee1OJMVcUBwD1dhzJC2MvPoTDSoKITeRbcK1M2WADiBduMgcYuUIVhFB6O3WB4XqRW658Vhgg_rrN6R73Dy8xYZEs0P8K9dRAX1V=s150</b:widget-setting>
+          <b:widget-setting name='displayUrl'>https://dl.dropboxusercontent.com/s/zh2gfkndg7qvu11/CuboRubikCode%20-%20Lateral-White.png?dl=0</b:widget-setting>
           <b:widget-setting name='displayHeight'>100</b:widget-setting>
           <b:widget-setting name='sectionWidth'>150</b:widget-setting>
           <b:widget-setting name='shrinkToFit'>true</b:widget-setting>
@@ -6193,7 +6162,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
                   <b:section class='main-logo' id='main-logo' maxwidgets='1' name='Header Logo' showaddelement='no'>
                     <b:widget id='Image50' locked='true' title='Informática y Programación - CuboRubikCode' type='Image' visible='true'>
                       <b:widget-settings>
-                        <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEiiyDguFC9LZtSwQukX_9mj2GoXzzrwosWaM4H3JQu6JBhfAwFqbIz3s662Os5pMT761_Ob0iCnr-0GQ6DvTcD7vtHls_ybpTQ4oaZJCghTltQIiPKZLrZjLJBjrggLCJYBFbvnhuARufo20hgvNYvaiLm2jtEHA2QMs-piHLBLx4JI95OenTyv7_E0kA=s850</b:widget-setting>
+                        <b:widget-setting name='displayUrl'>https://dl.dropboxusercontent.com/s/bxdkiin6u3j0gwd/CuboRubikCode%20-%20Encabezado.png?dl=0</b:widget-setting>
                         <b:widget-setting name='displayHeight'>346</b:widget-setting>
                         <b:widget-setting name='sectionWidth'>150</b:widget-setting>
                         <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
@@ -6901,7 +6870,7 @@ body#layout .header-items .flex-left, body#layout .main-menu-wrap .flex-left, bo
       </main>
       <aside id='sidebar-wrapper'>
         <b:section class='sidebar templateify-section' id='sidebar' name='Sidebar' showaddelement='yes'>
-          <b:widget id='Translate1' locked='false' title='Traductor' type='Translate' visible='true'>
+          <b:widget id='Translate1' locked='false' title='Translate' type='Translate' visible='true'>
             <b:widget-settings>
               <b:widget-setting name='displayMode'>VERTICAL</b:widget-setting>
             </b:widget-settings>
@@ -7078,7 +7047,7 @@ if(localStorage.getItem(&#39;dark-mode&#39;) === &#39;true&#39;){
           </b:widget>
           <b:widget id='Image1' locked='false' title='' type='Image' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEj80bGbFwWuw870UWxLO0TsrkG4web4WR1HD8tntQ0UraTQGidez5tjertDyULVMLvH9_wNmlimh8ScxM2FD7vPq9LiihbmOcXFd_ik_pAk90O6iHzAUCmPPiycCDTv-NfSKwW_6kerVlOGE0k735CIkWsdCfad5mAfB8uwrKHfqT1PHLkXoHMOcthwZg=s1600</b:widget-setting>
+              <b:widget-setting name='displayUrl'>https://dl.dropboxusercontent.com/s/zh2gfkndg7qvu11/CuboRubikCode%20-%20Lateral-White.png?dl=0</b:widget-setting>
               <b:widget-setting name='displayHeight'>1063</b:widget-setting>
               <b:widget-setting name='sectionWidth'>150</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
@@ -7199,7 +7168,7 @@ if(localStorage.getItem(&#39;dark-mode&#39;) === &#39;true&#39;){
            <b:section class='about-section flex-sb' cond='data:widgets.Image any w =&gt; w.sectionId == &quot;feedify-pro-about-section&quot;' id='feedify-pro-about-section' maxwidgets='2' name='About Section' showaddelement='yes'>
              <b:widget id='Image51' locked='true' title='Acerca de' type='Image' visible='true'>
                <b:widget-settings>
-                 <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEg-aNnn0K-YvkO-KvC6YlkHzI8BJuO_38WBCNusnKC5r010O62iQ1C2vBy7UjCx_VaklgUGuJB4K8jYVdpR5pL-OLO8UBv9-5IhmB7nl0gM6YKIykc2HtPrqgS9xjnYb347GdXYJnkGeXNdHXfgUVdCV7wUcK8C6Y4eVddsR51aKQfPHk5rvKREdeb1=s1064</b:widget-setting>
+                 <b:widget-setting name='displayUrl'>https://dl.dropboxusercontent.com/s/5nb5uw6d790x53u/CuboRubikCode%20-%20Image-White.png?dl=0</b:widget-setting>
                  <b:widget-setting name='displayHeight'>1064</b:widget-setting>
                  <b:widget-setting name='sectionWidth'>150</b:widget-setting>
                  <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
@@ -7322,7 +7291,7 @@ if(localStorage.getItem(&#39;dark-mode&#39;) === &#39;true&#39;){
                 </b:widget>
                 <b:widget id='Image2' locked='false' title='' type='Image' visible='true'>
                   <b:widget-settings>
-                    <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEiyazT9_lOYABhqpFsGnf1vZ7yi6qISYozqQ9p69OFU0JM7T2uWHcInkZH9NSCqamYBxsmdSbdXp_bONQGtFmfT7fZsg0mPG-rJjdIX06Vhltqv_nARMWaQqo3AB1Q9287kNf94iEtulZmLWimBvvvT2IWkiI1rbWswcFCIWSdBD6dQr3iv1W3BVZ9ACw=s1600</b:widget-setting>
+                    <b:widget-setting name='displayUrl'>https://dl.dropboxusercontent.com/s/zh2gfkndg7qvu11/CuboRubikCode%20-%20Lateral-White.png?dl=0</b:widget-setting>
                     <b:widget-setting name='displayHeight'>1063</b:widget-setting>
                     <b:widget-setting name='sectionWidth'>150</b:widget-setting>
                     <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
